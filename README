@@ -1,0 +1,1 @@
+A facebook app where people can follow their favorite EPL team. The major chunk at the backend is a component which automatically visits the web (truveo, youtube, blinkX, dailymotion) and intelligently populates the top relevant videos for all matches played within the week. This component is run peorodically to search for new relevant videos.
